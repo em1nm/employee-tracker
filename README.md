@@ -14,7 +14,9 @@ This Employee Tracker was created using Node.Js, Mysql2 and node packages Inquir
 
 Run node index.js in your terminal and following video preview will be prompted. 
 
-https://github.com/em1nm/employee-tracker/assets/126382072/8e865d58-2ff2-4669-b7ff-c065067ae2c6
+[Click for Preview](https://github.com/em1nm/employee-tracker/assets/126382072/8e865d58-2ff2-4669-b7ff-c065067ae2c6 "Link Preview")
+
+
 
 ## Features
 
