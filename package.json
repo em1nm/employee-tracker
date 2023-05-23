@@ -1,18 +1,28 @@
 {
-    "name": "homework_10",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-      "console.table": "^0.10.0",
-      "dotenv": "^16.0.3",
-      "inquirer": "^8.2.5",
-      "mysql2": "^3.2.0"
-    }
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/em1nm/employee-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/em1nm/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/em1nm/employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.2.1",
+    "promise-mysql": "^5.2.0",
+    "sequelize": "^6.31.0"
   }
+}
